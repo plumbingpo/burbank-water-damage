@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationburbank.com/sitemap.xml
